@@ -1,0 +1,11 @@
+package com.qa.enums;
+
+public enum ConfigProperties {
+    URL,
+    BROWSER,
+    OVERRIDEREPORTS,
+    PASSEDSTEPSCREENSHOT,
+    FAILEDSTEPSCREENSHOT,
+    SKIPSTEPSCREENSHOT,
+    RETRYFAILEDTEST;
+}
